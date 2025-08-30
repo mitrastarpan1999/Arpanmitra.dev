@@ -35,7 +35,7 @@ export default function Navbar() {
         />
   <div className="relative max-w-6xl mx-auto flex items-center justify-between px-4 py-6 z-10">
           <Link to="/" className="text-xl font-bold tracking-tight bg-gradient-to-r from-fuchsia-400 via-violet-400 to-blue-400 bg-clip-text text-transparent">
-            Arpan
+            Hi! this is Arpan
           </Link>
           <div className="sm:hidden flex items-center">
             <button onClick={() => setOpen(!open)} aria-label="Toggle menu">

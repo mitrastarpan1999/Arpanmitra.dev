@@ -257,9 +257,9 @@ export default function Hero() {
           <ul className="list-disc list-inside text-gray-200 text-lg space-y-3 mx-auto max-w-2xl">
             <li>Exploring new web technologies and building side projects</li>
             <li>Reading tech blogs and books on software engineering</li>
-            <li>Playing chess and strategy games</li>
-            <li>Traveling and photography</li>
-            <li>Listening to music and podcasts</li>
+            <li>Singing Indian classical music</li>
+            <li>Drawing</li>
+            <li>Listening to music and watching movies</li>
           </ul>
         </motion.div>
         </motion.div>
