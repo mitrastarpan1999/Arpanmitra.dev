@@ -55,8 +55,6 @@ export default function Hero() {
         >
           <a href="mailto:mitrastarpan1999@gmail.com" className="text-blue-300 hover:underline">mitrastarpan1999@gmail.com</a>
           <span className="hidden sm:inline">|</span>
-        
-          <span className="hidden sm:inline">|</span>
           <a href="https://www.linkedin.com/in/arpan-mitra-00033b240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="text-blue-300 hover:underline">LinkedIn</a>
         </motion.div>
         <motion.p
