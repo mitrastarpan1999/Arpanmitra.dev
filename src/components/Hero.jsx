@@ -124,7 +124,7 @@ export default function Hero() {
           >
             <h3 className="text-2xl font-bold text-violet-200 mb-4">Certifications & Courses</h3>
             <ul className="list-disc list-inside text-gray-200 text-base space-y-2">
-              <li>The Complete Web Development Bootcamp – Udemy (Ongoing)</li>
+              <li>The Complete Web Development Bootcamp – Udemy</li>
               <li>Advanced JavaScript & Frontend Techniques (Self-learning)</li>
               <li>Data Security and Privacy Training - Udemy</li>
               <li>Advance python from MSME</li>
